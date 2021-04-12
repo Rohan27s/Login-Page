@@ -1,5 +1,5 @@
 # Login-Page
-This is a login page made using HTML,CSS and JavaScript. All the additions are appreciated so feel free to add more features
+This is a login page made using HTML5,CSS3 and JavaScript.
 Login Page's Preview:-
 
 1)Sign Up Page:-
