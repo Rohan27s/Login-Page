@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 # Login-Page
 This is a login page made using HTML &amp; CSS. All the additions are appreciated so feel free to add more features by Rohan and akshay
-=======
 
-This is a login page made using HTML &amp; CSS. All the additions are appreciated so feel free to add more features by Rohan 
-=======
 This is a login page made using HTML5,CSS3 and JavaScript.
 Looking forward to add DataBase and more features
 Hi there
