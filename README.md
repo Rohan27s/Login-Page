@@ -1,6 +1,6 @@
 ##
 Login-Page :
-This is a login page made using HTML5 JavaScript CSS. All the additions are appreciated so feel free to add more features by Rohan and akshay
+This is a login page made using HTML5 JavaScript CSS. All the additions are appreciated so feel free to add more features by Rohan and akshay sharma
 
 
 Looking forward to add DataBase and more features
